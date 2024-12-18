@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+canvas {
+    display: block;
+    background: #20232a; /* Achtergrondkleur van de map */
+    width: 100vw;  /* Het scherm vult de gehele browserbreedte */
+    height: 100vh; /* Het scherm vult de gehele browserhoogte */
+}
